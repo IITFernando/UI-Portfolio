@@ -26,3 +26,5 @@ El proyecto recibió **comentarios positivos y elogios** por parte de los docent
 - UI Systems
 - Prototyping
 
+Prototipo (https://www.figma.com/proto/NztfyDCivSi7xqCT4AZqRd/Curso-UI-2025?page-id=0%3A1&node-id=255-1992&vie=)
+Video promocional mockup(https://www.youtube.com/watch?v=qYU7kVwZnY8)
