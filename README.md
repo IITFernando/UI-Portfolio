@@ -6,7 +6,7 @@ Mi interés principal está en diseñar interfaces simples, funcionales y cohere
 ## Enfoque
 Trabajo desde el problema hacia la solución, priorizando:
 - comprensión del contexto de uso
-- reducción de fricción
+- simplicidad y legibilidad
 - consistencia visual
 - decisiones de diseño fundamentadas
 
@@ -17,6 +17,8 @@ Según el proyecto, aplico:
 - Research y definición del problema
 - Wireframes y arquitectura de información
 - Diseño UI
+- Definición de layout y grid
+- Diseño de componentes
 - Prototipos interactivos
 
 ## Herramientas
